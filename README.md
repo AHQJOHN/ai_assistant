@@ -1,9 +1,9 @@
-##Need to install these in local environment 
-!sudo apt-get install python3-pyaudio
-!pip install pyaudio
-!pip install streamlit
-!pip install SpeechRecognition
-##Recording button will appear if the speechrecognition and pyaudio is installed correctly
+## Need to install these in local environment 
+## !sudo apt-get install python3-pyaudio
+## !pip install pyaudio
+## !pip install streamlit
+## !pip install SpeechRecognition
+## Recording button will appear if the speechrecognition and pyaudio is installed correctly
 
 # title: Ai Assistant
 emoji: 😻
